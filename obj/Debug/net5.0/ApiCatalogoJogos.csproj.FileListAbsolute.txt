@@ -1,0 +1,12 @@
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\Digital Innovation One\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\Digital Innovation One\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\Digital Innovation One\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\Digital Innovation One\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\Digital Innovation One\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\adils\OneDrive\Documentos\Adilson\Programação\projetos\Digital Innovation One\CatalogoJogos2\CatalogoJogos\CatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
